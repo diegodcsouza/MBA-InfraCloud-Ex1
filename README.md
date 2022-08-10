@@ -2,3 +2,5 @@
 Criação de uma máquina IAAS
 
 A IP da máquina gerada foi: http://10.26.40.15/
+
+Evidência de máquina funcionando
